@@ -36,13 +36,13 @@ Pronto se tudo ocorrer corretamente seu projeto já estará executando para aces
 ## Editando
 As principais pastas para editar o sistema são:
 
-#####Model:
+###Model:
 - <code>app/Tarefas.php</code>
-#####Controller:
+###Controller:
 - <code>app/Http/TarefasController.php</code>
-#####Funções Ajax:
+###Funções Ajax:
 - <code>public/js/ajax.js</code>
-#####Funções Views:
+###Funções Views:
 - <code>resources/views</code>
-#####Rotas:
+###Rotas:
 - <code>routes/web.php</code>

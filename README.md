@@ -38,11 +38,15 @@ As principais pastas para editar o sistema são:
 
 ###Model:
 - <code>app/Tarefas.php</code>
+
 ###Controller:
 - <code>app/Http/TarefasController.php</code>
+
 ###Funções Ajax:
 - <code>public/js/ajax.js</code>
+
 ###Funções Views:
 - <code>resources/views</code>
+
 ###Rotas:
 - <code>routes/web.php</code>
